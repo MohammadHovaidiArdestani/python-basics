@@ -7,11 +7,19 @@ Created on Fri Jan 28 14:09:24 2022
 https://edube.org/learn/pe-1/
 """
 
+<<<<<<< HEAD
 x = int(input("x: "))
 if x >= 100:
     print("True")
 else:
     print("False")
+=======
+""" x = int(input("x: "))
+if x >= 100:
+    print("True")
+else:
+    print("False") """
+>>>>>>> PythonCodes
     
 # Conditions and conditional execution
 # Read two numbers
