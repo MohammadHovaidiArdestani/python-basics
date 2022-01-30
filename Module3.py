@@ -7,11 +7,11 @@ Created on Fri Jan 28 14:09:24 2022
 https://edube.org/learn/pe-1/
 """
 
-x = int(input("x: "))
+""" x = int(input("x: "))
 if x >= 100:
     print("True")
 else:
-    print("False")
+    print("False") """
     
 # Conditions and conditional execution
 # Read two numbers
